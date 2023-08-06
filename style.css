@@ -1,0 +1,35 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: blanchedalmond;
+}
+
+#eat, .recipes, .items {
+    background-color: rgb(247, 210, 165);
+}
+
+h1, h2 {
+    background-color: aquamarine;
+    text-decoration: underline;
+}
+
+img {
+    width: auto;
+    max-height: 300px;
+}
+
+.recipes {
+    list-style: none;
+}
+
+.items {
+    color:rgb(0, 91, 148);
+    text-decoration: none;
+    font-weight:800;
+}
+
+p {
+    color:rgb(63, 66, 68);
+    background-color: aliceblue;
+    font-size: large;
+    font-weight: bolder;
+}
